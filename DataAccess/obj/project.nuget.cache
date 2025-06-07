@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zv9UHeeO9xk=",
+  "success": true,
+  "projectFilePath": "/home/ivaylo/RiderProjects/BlackJackGame/DataAccess/DataAccess.csproj",
+  "expectedPackageFiles": [
+    "/home/ivaylo/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="BlackJackGame/App.axaml" value="BlackJackGame/BlackJackGame.csproj" />
+        <entry key="BlackJackGame/Views/MainWindow.axaml" value="BlackJackGame/BlackJackGame.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
