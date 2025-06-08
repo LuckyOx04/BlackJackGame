@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
   &lt;Assembly Path="/home/ivaylo/.nuget/packages/dapper/2.1.66/lib/net8.0/Dapper.dll" /&gt;
+  &lt;Assembly Path="/home/ivaylo/.nuget/packages/microsoft.extensions.configuration/10.0.0-preview.5.25277.114/lib/net9.0/Microsoft.Extensions.Configuration.dll" /&gt;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
